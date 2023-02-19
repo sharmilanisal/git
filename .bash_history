@@ -81,3 +81,25 @@ ls
 vi shammu.sh
 vi script.sh
 vi shammu.sh
+ls
+vi shammu.sh
+ls -la
+chmod +X shammu.sh
+ls -la
+chmod 777 shammu.sh
+ls -la
+sudo apt-get install git
+git init
+git status
+git commit -m "commit shammu.sh"
+git branch -M main
+git remote add origin https://github.com/sharmilanisal/git.git
+git remote set-url origin https://github.com/sharmilanisal/git.git
+git push -u origin main
+git status
+git remote set-url origin https://github.com/sharmilanisal/git.git
+git add .
+git commit -m "commit"
+git push -u origin main
+ls
+vi shammu.sh

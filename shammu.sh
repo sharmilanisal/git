@@ -2,6 +2,7 @@
 
 echo "sharmila"
 
-
-sudo apt-get update
+sudo su 
 sudo apt-get install apache2 
+sudo apt-get update
+

@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1676792705,,"wq"
+|2,0,1676793974,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,32 +25,70 @@
 # Registers:
 
 # File marks:
-'0  6  18  ~/shammu.sh
-|4,48,6,18,1676792705,"~/shammu.sh"
-'1  7  29  ~/shammu.sh
-|4,49,7,29,1676792544,"~/shammu.sh"
-'2  4  29  ~/shammu.sh
-|4,50,4,29,1676792544,"~/shammu.sh"
-'3  6  0  ~/script.sh
-|4,51,6,0,1676792181,"~/script.sh"
+'0  8  0  ~/shammu.sh
+|4,48,8,0,1676793974,"~/shammu.sh"
+'1  7  0  ~/shammu.sh
+|4,49,7,0,1676793905,"~/shammu.sh"
+'2  6  0  ~/shammu.sh
+|4,50,6,0,1676793905,"~/shammu.sh"
+'3  1  0  ~/shammu.sh
+|4,51,1,0,1676793778,"~/shammu.sh"
 '4  1  0  ~/shammu.sh
-|4,52,1,0,1676792132,"~/shammu.sh"
+|4,52,1,0,1676793778,"~/shammu.sh"
 '5  1  0  ~/shammu.sh
-|4,53,1,0,1676792132,"~/shammu.sh"
+|4,53,1,0,1676793778,"~/shammu.sh"
 '6  1  0  ~/shammu.sh
-|4,54,1,0,1676792132,"~/shammu.sh"
+|4,54,1,0,1676793778,"~/shammu.sh"
 '7  1  0  ~/shammu.sh
-|4,55,1,0,1676792132,"~/shammu.sh"
-'8  6  0  ~/script.sh
-|4,56,6,0,1676440132,"~/script.sh"
-'9  2  0  ~/class/class
-|4,57,2,0,1676440025,"~/class/class"
+|4,55,1,0,1676793778,"~/shammu.sh"
+'8  1  0  ~/shammu.sh
+|4,56,1,0,1676793778,"~/shammu.sh"
+'9  1  0  ~/shammu.sh
+|4,57,1,0,1676793778,"~/shammu.sh"
 
 # Jumplist (newest first):
+-'  8  0  ~/shammu.sh
+|4,39,8,0,1676793974,"~/shammu.sh"
+-'  7  0  ~/shammu.sh
+|4,39,7,0,1676793920,"~/shammu.sh"
+-'  6  0  ~/shammu.sh
+|4,39,6,0,1676793905,"~/shammu.sh"
+-'  10  18  ~/shammu.sh
+|4,39,10,18,1676793857,"~/shammu.sh"
+-'  9  18  ~/shammu.sh
+|4,39,9,18,1676793857,"~/shammu.sh"
+-'  1  0  ~/shammu.sh
+|4,39,1,0,1676793778,"~/shammu.sh"
+-'  1  0  ~/shammu.sh
+|4,39,1,0,1676793778,"~/shammu.sh"
+-'  1  0  ~/shammu.sh
+|4,39,1,0,1676793778,"~/shammu.sh"
+-'  1  0  ~/shammu.sh
+|4,39,1,0,1676793778,"~/shammu.sh"
 -'  6  18  ~/shammu.sh
 |4,39,6,18,1676792705,"~/shammu.sh"
+-'  6  18  ~/shammu.sh
+|4,39,6,18,1676792705,"~/shammu.sh"
+-'  6  18  ~/shammu.sh
+|4,39,6,18,1676792705,"~/shammu.sh"
+-'  11  28  ~/shammu.sh
+|4,39,11,28,1676792651,"~/shammu.sh"
+-'  10  28  ~/shammu.sh
+|4,39,10,28,1676792651,"~/shammu.sh"
 -'  7  28  ~/shammu.sh
 |4,39,7,28,1676792651,"~/shammu.sh"
+-'  7  28  ~/shammu.sh
+|4,39,7,28,1676792651,"~/shammu.sh"
+-'  7  28  ~/shammu.sh
+|4,39,7,28,1676792651,"~/shammu.sh"
+-'  6  29  ~/shammu.sh
+|4,39,6,29,1676792544,"~/shammu.sh"
+-'  7  29  ~/shammu.sh
+|4,39,7,29,1676792544,"~/shammu.sh"
+-'  4  29  ~/shammu.sh
+|4,39,4,29,1676792544,"~/shammu.sh"
+-'  4  29  ~/shammu.sh
+|4,39,4,29,1676792544,"~/shammu.sh"
 -'  4  29  ~/shammu.sh
 |4,39,4,29,1676792544,"~/shammu.sh"
 -'  1  0  ~/shammu.sh
@@ -65,6 +103,94 @@
 |4,39,6,0,1676792181,"~/script.sh"
 -'  6  0  ~/script.sh
 |4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676792181,"~/script.sh"
 -'  1  0  ~/shammu.sh
 |4,39,1,0,1676792132,"~/shammu.sh"
 -'  1  0  ~/shammu.sh
@@ -85,180 +211,58 @@
 |4,39,6,0,1676440132,"~/script.sh"
 -'  6  0  ~/script.sh
 |4,39,6,0,1676440132,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1676440095,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1676440095,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1676440095,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1676440095,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1676440095,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1676440095,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1676440095,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1676440095,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1676440095,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1676440095,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1676440095,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1676440095,"~/script.sh"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  2  0  ~/class/class
-|4,39,2,0,1676440025,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676440012,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676439960,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676439960,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676439960,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676439960,"~/class/class"
--'  1  0  ~/class/class
-|4,39,1,0,1676439960,"~/class/class"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676440132,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676440132,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676440132,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676440132,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676440132,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676440132,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676440132,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676440132,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676440132,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676440132,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676440132,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676440132,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676440132,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676440132,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676440132,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676440132,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676440132,"~/script.sh"
+-'  6  0  ~/script.sh
+|4,39,6,0,1676440132,"~/script.sh"
 
 # History of marks within files (newest to oldest):
 
 > ~/shammu.sh
-	*	1676792700	0
-	"	6	18
-	^	6	19
-	.	6	18
-	+	7	47
-	+	7	29
-	+	8	0
-	+	6	18
+	*	1676793966	0
+	"	8	0
+	^	8	0
+	.	7	19
+	+	11	47
+	+	11	29
+	+	12	0
+	+	10	19
+	+	6	29
+	+	7	0
+	+	5	7
+	+	7	19
 
 > ~/script.sh
 	*	1676792174	0
