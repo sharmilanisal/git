@@ -40,3 +40,44 @@ git status
 git commit -a
 git status
 git push origin master
+ls
+git init
+git config --global user.name "sharmila"
+git config --global user.email "sharmilavnisal@gmail.com"
+git remote add origin https://github.com/sharmilanisal/sharmila.git
+git status
+git add .
+git status
+git add -a
+git add all
+git add --all
+git status
+git add --all
+git add .
+git status
+git push origin master
+git pull origin master
+git push origin master
+git remote -v
+git push origin master
+git push origin main
+git push origin master
+git pull origin master
+git pull --rebase origin master
+git push -u origin master
+git push -U origin main
+git remote set-url origin https://github.com/sharmilanisal/sharmila.git
+git status
+git add --all
+git status
+git commit -m "add"
+git status
+git push -u origin main
+git pull origin main
+git push -u origin main
+git branch -b
+clear
+ls
+vi shammu.sh
+vi script.sh
+vi shammu.sh
